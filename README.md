@@ -2,4 +2,4 @@
 
 Hi,
 
-I will upload slides and other materials for the exersice classes here.
+I will upload slides and other materials for the exercise classes here.
